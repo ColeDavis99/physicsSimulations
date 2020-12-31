@@ -11,17 +11,23 @@ public:
 	float Velocity();
 
 	//Getters
-	
+	float getxPos();
+	float getyPos();
+	float getxVec();
+	float getyVec();
 
 	//Setters
-
+	void setxVec(float xVec);
+	void setyVec(float yVec);
+	void setxPos(float xPos);
+	void setyPos(float yPos);
 
 
 private:
-	float xVec = 10;
-	float yVec = 10;
-	float xPos = 0;
-	float yPos = 0;
+	float xVec;
+	float yVec;
+	float xPos;
+	float yPos;
 
 };
 
