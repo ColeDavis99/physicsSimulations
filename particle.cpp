@@ -10,8 +10,8 @@ using std::endl;
 Particle::Particle()
 {
 	cout<<"Default Particle Constructor"<<endl;
-	setxVec(5);
-	setyVec(10);
+	setxVec(10);
+	setyVec(5);
 	setxPos(50);
 	setyPos(50);
 }
