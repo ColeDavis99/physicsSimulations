@@ -1,3 +1,3 @@
-# boxSimulation
-Simulating some perfect elastic collisions of a particle bouncing around inside a box (DVD Screensaver Style).
-Eventually this may turn into some sort of 2D kinematic simulation stuff.
+# Physics Simulations
+Doing some 2D kinematic simulations and investigating the computational intensity of different collision detection algorithms.
+Might gain mathematical insight into why my Rocket League shots are always off. 
